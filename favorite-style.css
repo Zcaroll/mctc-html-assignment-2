@@ -3,7 +3,9 @@ p {
 }
 
 h1 {
-  color: white:
+  color: black;
+  font-family: arial;
+  font-size: 20px;
 }
 
 body {
