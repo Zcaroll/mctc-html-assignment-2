@@ -39,3 +39,11 @@ body {
 table, th, td {
   border: 1px solid;
 }
+
+th {
+  color: orange;
+}
+
+td {
+  color: gray;
+}
