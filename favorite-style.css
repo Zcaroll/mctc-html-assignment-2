@@ -2,12 +2,13 @@
   color: blue;
 }
 
-h1 {
-  color: black;
-  font-family: arial;
-  font-size: 20px;
+.favorite-section {
+  width: 300px;
+  border: 15px solid green;
+  padding: 50px;
+  margin: 20px;
 }
 
-body {
+.section-header {
   color: red;
 }
