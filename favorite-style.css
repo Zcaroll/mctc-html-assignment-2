@@ -18,3 +18,17 @@ body {
   background-color: mediumPurple;
 }
 
+#favorite-movie-title {
+  font-style: italic;
+  color: red;
+}
+
+#favorite-music-name {
+  font-weight: bold;
+  color: red;
+}
+
+#most-favorite-food {
+  font-weight: bold;
+}
+
