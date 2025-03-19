@@ -32,3 +32,6 @@ body {
   font-weight: bold;
 }
 
+#most-favorite-food {
+  border-radius: 25px;
+}
