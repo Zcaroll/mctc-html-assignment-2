@@ -35,3 +35,7 @@ body {
 #most-favorite-food {
   border-radius: 25px;
 }
+
+table, th, td {
+  border: 1px solid;
+}
